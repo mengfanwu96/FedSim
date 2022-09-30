@@ -1,0 +1,7 @@
+numpy
+scipy
+tensorflow==1.10
+Pillow
+matplotlib
+jupyter
+tqdm
